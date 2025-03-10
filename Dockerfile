@@ -1,2 +1,2 @@
-From postgres:15-alpine
+From redis:6-alpine
 
