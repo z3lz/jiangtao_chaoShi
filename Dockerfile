@@ -1,2 +1,2 @@
-From redis:6-alpine
+From certbot/certbot
 
