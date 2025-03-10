@@ -1,2 +1,2 @@
-From langgenius/dify-web:1.0.0
+From postgres:15-alpine
 
