@@ -1,2 +1,2 @@
-From redis:6-alpine
+From langgenius/dify-sandbox:0.2.10
 
