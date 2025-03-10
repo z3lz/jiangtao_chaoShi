@@ -1,2 +1,2 @@
-From certbot/certbot
+From nginx:latest
 
