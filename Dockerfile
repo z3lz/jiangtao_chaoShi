@@ -1,2 +1,2 @@
-From image: langgenius/dify-web:1.0.0
+From langgenius/dify-web:1.0.0
 
